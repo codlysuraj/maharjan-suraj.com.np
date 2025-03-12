@@ -16,9 +16,9 @@
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "Web Developer"},
-            "np": {"role": "वेब विकासकर्ता"},
-            "ch": {"role": "网页开发人员"}
+            "en": {"name": "<strong>Suraj **Maharjan**</strong>", "role": "Web Developer"},
+            "np": {"name": "<strong>सुरज **महर्जन**</strong>", "role": "वेब विकासकर्ता"},
+            "ch": {"name": "<strong>苏拉吉 **马哈尔詹**</strong>", "role": "网页开发人员"}
         }
     },
 
