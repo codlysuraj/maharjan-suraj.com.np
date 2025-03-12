@@ -6,22 +6,16 @@
             "title_long": "**Work** Experience"
         },
 
-        "es": {
-            "title": "Experiencia",
-            "title_long_prefix": "Resumen de mi",
-            "title_long": "Experiencia **Laboral**"
+        "np": {
+            "title": "अनुभव",
+            "title_long_prefix": "मेरो सारांश",
+            "title_long": "**काम** अनुभव"
         },
 
-        "fr": {
-            "title": "Expérience",
-            "title_long_prefix": "Résumé de mon",
-            "title_long": "Parcours **Professionel**"
-        },
-
-        "ko": {
-            "title": "경험",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**직업적** 경험"
+        "ch": {
+            "title": "经验",
+            "title_long_prefix": "我的总结",
+            "title_long": "**工作**经历"
         }
     },
 
@@ -35,37 +29,62 @@
             "items": [
                 {
                     "icon": {
+                        "img": "images/pictures/place-1.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "12/01/2021",
+                        "end": "03/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Technical** Engineer",
+                            "info": "Sky Nepal Pvt Ltd",
+                            "text": "Technical Engineer with a solid foundation in troubleshooting, maintaining, and optimizing systems. Skilled in problem-solving and assisting with technical solutions to improve efficiency. Familiar with various engineering tools and eager to learn and grow in a fast-paced environment.",
+                            "tags": ["MountRack Server Management", "Networking", "Switch Router Management", "QNAP Management"]
+                        },
+                        "np": {
+                            "title": "**प्राविधिक** इन्जिनियर",
+                            "info": "स्काई नेपाल प्रालि",
+                            "text": "समस्या निवारण, मर्मतसम्भार र प्रणाली अनुकूलनमा बलियो जग भएको प्राविधिक इन्जिनियर। समस्या समाधान गर्न र दक्षता सुधार गर्न प्राविधिक समाधानहरूमा सहयोग गर्नमा दक्ष। विभिन्न इन्जिनियरिङ उपकरणहरूसँग परिचित र द्रुत गतिको वातावरणमा सिक्न र बढ्न उत्सुक।",
+                            "tags": null
+                        },
+                        "ch": {
+                            "title": "**技术**工程师",
+                            "info": "天空尼泊尔私人有限公司",
+                            "text": "具有扎实系统故障排除、维护和优化基础的技术工程师。擅长解决问题并协助提供技术解决方案以提高效率。熟悉各种工程工具，渴望在快节奏的环境中学习和成长",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
                         "img": "images/pictures/place-7.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "03/01/2016",
-                        "end": "06/01/2018"
+                        "start": "03/01/2022",
+                        "end": "06/01/2022"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Backend** Developer",
-                            "info": "Sapphire Studio",
-                            "text": "Developed and maintained scalable backend systems for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
-                            "tags": ["PHP", "MySQL", "Laravel"]
+                            "title": "**Junior** Laravel Developer",
+                            "info": "Cybil Tech Pvt Ltd",
+                            "text": "Laravel Developer with experience in building and maintaining web applications using Laravel and PHP. Skilled in backend development, database management, and API integration. Passionate about writing clean, efficient code and continuously learning new technologies to improve application performance.",
+                            "tags": ["JavaScript", "Laravel", "PHP", "github", "Bootstrap"]
                         },
-                        "es": {
-                            "title": "Desarrollador **Backend**",
-                            "info": "Sapphire Studio",
-                            "text": "Desarrollé y mantuve sistemas backend escalables para varios clientes, optimizando el rendimiento de la base de datos e implementando APIs RESTful para mejorar la funcionalidad de la aplicación.",
+                        "np": {
+                            "title": "**जुनियर** लाराभेल विकासकर्ता",
+                            "info": "साइबिल टेक प्रा. लि.",
+                            "text": "Laravel र PHP प्रयोग गरेर वेब अनुप्रयोगहरू निर्माण र मर्मत गर्ने अनुभव भएको Laravel विकासकर्ता। ब्याकएन्ड विकास, डाटाबेस व्यवस्थापन, र API एकीकरणमा दक्ष। सफा, कुशल कोड लेख्ने र अनुप्रयोग प्रदर्शन सुधार गर्न निरन्तर नयाँ प्रविधिहरू सिक्ने बारेमा जोशिलो।",
                             "tags": null
                         },
-                        "fr": {
-                            "title": "Développeur **Backend**",
-                            "info": "Sapphire Studio",
-                            "text": "Développé et maintenu des systèmes backend évolutifs pour divers clients, optimisant les performances de la base de données et implémentant des APIs RESTful pour améliorer la fonctionnalité de l'application.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "**백엔드** 개발자",
-                            "info": "사파이어 스튜디오",
-                            "text": "여러 클라이언트를 위해 확장 가능한 백엔드 시스템을 개발하고 유지 관리하며, 데이터베이스 성능을 최적화하고 애플리케이션 기능을 개선하기 위해 RESTful API를 구현했습니다.",
+                        "ch": {
+                            "title": "**初级** Laravel 开发人员",
+                            "info": "赛比尔科技私人有限公司",
+                            "text": "Laravel 开发人员，具有使用 Laravel 和 PHP 构建和维护 Web 应用程序的经验。精通后端开发、数据库管理和 API 集成。热衷于编写简洁、高效的代码，并不断学习新技术以提高应用程序性能",
                             "tags": null
                         }
                     }
@@ -77,107 +96,27 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "06/01/2018",
-                        "end": "12/01/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "**Full-Stack** Engineer",
-                            "info": "Coursera",
-                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
-                            "tags": ["JavaScript", "React", "Node.js", "PHP", "REST", "Docker"]
-                        },
-                        "es": {
-                            "title": "Ingeniero **Full-Stack**",
-                            "info": "Coursera",
-                            "text": "Participé en la mejora del sitio web de Coursera al implementar nuevas funcionalidades y optimizar la experiencia del usuario, utilizando tecnologías de frontend y backend para asegurar un funcionamiento sin problemas.",
-                            "tags": null
-                        },
-                        "fr": {
-                            "title": "Ingénieur **Full-Stack**",
-                            "info": "Coursera",
-                            "text": "J'ai contribué à l'amélioration du site Web de Coursera en ajoutant de nouvelles fonctionnalités et en optimisant l'expérience utilisateur, en utilisant des technologies frontend et backend pour garantir un fonctionnement fluide.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "**풀스택** 엔지니어",
-                            "info": "코세라",
-                            "text": "Coursera 웹사이트를 개선하기 위해 새로운 기능을 추가하고 사용자 경험을 최적화했습니다. 원활한 기능을 보장하기 위해 프론트엔드와 백엔드 기술을 모두 활용했습니다.",
-                            "tags": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": "images/pictures/place-1.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "dates": {
-                        "start": "12/01/2020",
-                        "end": "11/01/2022"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "**Backend** Engineer",
-                            "info": "Adobe Inc.",
-                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
-                            "tags": ["Java", "AWS", "REST", "Docker"]
-                        },
-                        "es": {
-                            "title": "Ingeniero **Backend**",
-                            "info": "Adobe Inc.",
-                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia en el procesamiento de datos mediante funciones en la nube.",
-                            "tags": null
-                        },
-                        "fr": {
-                            "title": "Ingénieur **Backend**",
-                            "info": "Adobe Inc.",
-                            "text": "J'ai contribué au développement de systèmes backend solides pour Adobe Creative Cloud, intégrant des services tiers et améliorant l'efficacité du traitement des données grâce aux fonctions cloud.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "**백엔드** 엔지니어",
-                            "info": "어도비 주식회사",
-                            "text": "Adobe Creative Cloud를 위한 강력한 백엔드 시스템 개발에 기여하였으며, 타사 서비스 통합과 클라우드 기능을 통해 데이터 처리 효율성을 향상시켰습니다.",
-                            "tags": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-apple",
-                        "faColors": {"bg": "#111", "fill": "#EEE"}
-                    },
-                    "dates": {
-                        "start": "12/01/2022",
+                        "start": "06/01/2022",
                         "end": "now"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Senior Backend** Developer",
-                            "info": "Apple Inc.",
-                            "text": "<p>Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Swift, PHP, and GraphQL</li></ul> <p class='mt-3'>Together, we ensure Apple's backend infrastructure stays robust and efficient.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "**Mid Wordpress** Developer",
+                            "info": "Hash Themes Pvt Ltd",
+                            "text": "Mid-Level WordPress Developer with experience in developing, customizing, and maintaining WordPress websites, themes, and plugins. Proficient in PHP, JavaScript, React, HTML, and CSS, with a strong focus on performance optimization and responsive design. Skilled in integrating and extending WordPress functionality through custom plugins and modern frontend technologies to enhance user experience.",
+                            "tags": ["PHP", "MySQL", "React", "CSS", "jQuery", "HTML5", "github"]
                         },
-                        "es": {
-                            "title": "Desarrollador **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:</p> <ul><li>Seguridad</li><li>Escalabilidad para manejar millones de usuarios a nivel global</li><li>Desarrollar APIs RESTful</li><li>Optimizar el rendimiento de bases de datos con PostgreSQL</li><li>Construcción de servicios con Swift, PHP y GraphQL</li></ul> <p class='mt-3'>Juntos, aseguramos que la infraestructura backend de Apple se mantenga robusta y eficiente.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        "np": {
+                            "title": "**मध्य वर्डप्रेस** विकासकर्ता",
+                            "info": "ह्यास थिम्स प्रा. लि.",
+                            "text": "मध्यम-स्तरीय वर्डप्रेस विकासकर्ता जससँग वर्डप्रेस वेबसाइटहरू, थिमहरू र प्लगइनहरू विकास, अनुकूलन र मर्मत गर्ने अनुभव छ। PHP, JavaScript, React, HTML, र CSS मा दक्ष, प्रदर्शन अनुकूलन र उत्तरदायी डिजाइनमा बलियो ध्यान केन्द्रित गर्दै। प्रयोगकर्ता अनुभव बृद्धि गर्न अनुकूलन प्लगइनहरू र आधुनिक फ्रन्टएन्ड प्रविधिहरू मार्फत वर्डप्रेस कार्यक्षमतालाई एकीकृत र विस्तार गर्नमा दक्ष।",
+                            "tags": null
                         },
-                        "fr": {
-                            "title": "Développeur **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Dirigeant une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services d'Apple, en se concentrant sur:</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données avec PostgreSQL</li><li>Création de services avec Swift, PHP et GraphQL</li></ul> <p class='mt-3'>Ensemble, nous assurons que l'infrastructure backend d'Apple reste robuste et efficace.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
-                        },
-                        "ko": {
-                            "title": "**수석 백엔드** 개발자",
-                            "info": "애플 주식회사",
-                            "text": "<p>Apple 서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>우리는 함께 Apple의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        "ch": {
+                            "title": "**Mid Wordpress** 开发人员",
+                            "info": "Hash Themes 私人有限公司",
+                            "text": "中级 WordPress 开发人员，具有开发、自定义和维护 WordPress 网站、主题和插件的经验。精通 PHP、JavaScript、React、HTML 和 CSS，重点关注性能优化和响应式设计。擅长通过自定义插件和现代前端技术集成和扩展 WordPress 功能以增强用户体验。",
+                            "tags": null
                         }
                     }
                 }

@@ -4,7 +4,7 @@
     "fullScreenButtonEnabled": true,
 
     "preloader": {
-        "enabled": true,
+        "enabled": false,
         "title": "My <b>Portfolio</b>",
         "subtitle": "All About Me"
     },
@@ -17,9 +17,8 @@
 
         "locales": {
             "en": {"role": "Web Developer"},
-            "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur Web"},
-            "ko": {"role": "웹 개발자"}
+            "np": {"role": "वेब विकासकर्ता"},
+            "ch": {"role": "网页开发人员"}
         }
     },
 
@@ -29,9 +28,8 @@
 
         "locales": {
             "en": {"message": "Available for freelance!"},
-            "es": {"message": "¡Disponible para freelance!"},
-            "fr": {"message": "Disponible pour freelance !"},
-            "ko": {"message": "프리랜스 가능합니다!"}
+            "np": {"message": "फ्रीलान्स को लागी उपलब्ध छ!"},
+            "ch": {"message": "可担任自由职业者！"}
         }
     },
 
@@ -58,21 +56,15 @@
         },
 
         {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
+            "name": "नेपाली",
+            "id": "np",
+            "flagUrl": "images/flags/np.png"
         },
 
         {
-            "name": "Français",
-            "id": "fr",
-            "flagUrl": "images/flags/fr.png"
-        },
-
-        {
-            "name": "한국어",
-            "id": "ko",
-            "flagUrl": "images/flags/ko.png"
+            "name": "中国人",
+            "id": "ch",
+            "flagUrl": "images/flags/ch.png"
         }
     ],
 

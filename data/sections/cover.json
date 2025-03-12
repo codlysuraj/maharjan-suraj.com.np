@@ -4,28 +4,21 @@
             "title": "Welcome!",
             "title_menu": "About me",
             "title_long_prefix": "Hello...",
-            "title_long": "I'm **Mark Choi!**"
+            "title_long": "I'm **Suraj Maharjan!**"
         },
 
-        "es": {
-            "title": "¡Saludos!",
-            "title_menu": "Sobre mí",
-            "title_long_prefix": "Hola...",
-            "title_long": "Soy **Mark Choi!**"
+        "np": {
+            "title": "स्वागत छ!",
+            "title_menu": "मेरो बारेमा",
+            "title_long_prefix": "नमस्ते...",
+            "title_long": "म **सुरज महर्जन!** हुँ।"
         },
 
-        "fr": {
-            "title": "Salut !",
-            "title_menu": "À propos",
-            "title_long_prefix": "Salut...",
-            "title_long": "Je suis **Mark Choi!**"
-        },
-
-        "ko": {
-            "title": "환영합니다!",
-            "title_menu": "소개",
-            "title_long_prefix": "안녕하세요...",
-            "title_long": "저는 **Mark Choi** 입니다!"
+        "ch": {
+            "title": "欢迎！",
+            "title_menu": "关于我",
+            "title_long_prefix": "你好...",
+            "title_long": "我是 **Suraj Maharjan！**"
         }
     },
 
@@ -39,14 +32,13 @@
             },
             "locales": {
                 "en": {},
-                "es": {},
-                "fr": {},
-                "ko": {}
+                "np": {},
+                "ch": {}
             },
 
             "items": [
                 {
-                    "value": "Cupertino – CA",
+                    "value": "Nepal – NP",
                     "links": [
                         {"href": null}
                     ],
@@ -57,9 +49,9 @@
                     }
                 },
                 {
-                    "value": "mark.choi@dev.com",
+                    "value": "mailnesuraj@gmail.com",
                     "links": [
-                        {"href": "mailto:mark.choi@dev.com"}
+                        {"href": "mailto:mailnesuraj@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -68,9 +60,9 @@
                     }
                 },
                 {
-                    "value": "@ryanbalieiro",
+                    "value": "@srjmrjn7",
                     "links": [
-                        {"href": "https://github.com/ryanbalieiro"}
+                        {"href": "https://github.com/srjmrjn7"}
                     ],
                     "icon": {
                         "img": null,
@@ -87,9 +79,8 @@
             "config": {},
             "locales": {
                 "en": {"title": "**A little bit** about me..."},
-                "es": {"title": "**Un poco** sobre mí..."},
-                "fr": {"title": "**Un peu** à propos de moi..."},
-                "ko": {"title": "저에 **대해 조금**..."}
+                "np": {"title": "**मेरो बारेमा केही कुरा...**"},
+                "ch": {"title": "**关于我的一点点**..."}
             },
 
             "items": [
@@ -100,10 +91,9 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"text": "<p>I’m a PHP developer with <b>over a decade</b> of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
-                        "es": {"text": "<p>Soy un desarrollador de PHP con <b>más de una década</b> de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"},
-                        "fr": {"text": "<p>Je suis développeur PHP avec <b>plus d'une décennie</b> d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"},
-                        "ko": {"text": "<p>저는 백엔드 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 <b>10년 이상의</b> 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"}
+                        "en": {"text": "<p>Passionate and detail-oriented Web Developer with 3 years of experience in WordPress development and 1 year in Laravel. Skilled in building, customizing, and optimizing WordPress websites, including theme and plugin development. Proficient in PHP, JavaScript, React, HTML, and CSS, with a strong understanding of backend development in Laravel.</p><p> Experienced in integrating APIs, improving website performance, and ensuring responsive, user-friendly designs. Dedicated to continuous learning and staying updated with the latest web technologies to deliver efficient and scalable solutions.</p>"},
+                        "np": {"text": "<p>वर्डप्रेस विकासमा ३ वर्ष र लाराभेलमा १ वर्ष अनुभव भएको जोशिलो र विवरण-उन्मुख वेब विकासकर्ता। थिम र प्लगइन विकास सहित वर्डप्रेस वेबसाइटहरू निर्माण, अनुकूलन र अनुकूलन गर्नमा दक्ष। PHP, जाभास्क्रिप्ट, प्रतिक्रिया, HTML, र CSS मा दक्ष, लाराभेलमा ब्याकएन्ड विकासको बलियो बुझाइको साथ।</p><p>एपीआईहरू एकीकृत गर्न, वेबसाइट प्रदर्शन सुधार गर्न, र उत्तरदायी, प्रयोगकर्ता-मैत्री डिजाइनहरू सुनिश्चित गर्न अनुभवी। कुशल र स्केलेबल समाधानहरू प्रदान गर्न नवीनतम वेब प्रविधिहरूसँग निरन्तर सिक्ने र अद्यावधिक रहन समर्पित।</p>"},
+                        "ch": {"text": "<p>热情且注重细节的 Web 开发人员，拥有 3 年 WordPress 开发经验和 1 年 Laravel 开发经验。擅长构建、自定义和优化 WordPress 网站，包括主题和插件开发。精通 PHP、JavaScript、React、HTML 和 CSS，对 Laravel 中的后端开发有深入的了解。</p><p> 擅长集成 API、提高网站性能以及确保响应迅速、用户友好的设计。致力于不断学习并随时掌握最新的 Web 技术，以提供高效且可扩展的解决方案。</p>"}
                     }
                 }
             ]
@@ -115,16 +105,15 @@
             "config": {},
             "locales": {
                 "en": {"title": "Client **testimonials**"},
-                "es": {"title": "Testimonios de **clientes**"},
-                "fr": {"title": "Témoignages de **clients**"},
-                "ko": {"title": "**고객** 추천사"}
+                "np": {"title": "ग्राहक **प्रशंसापत्र**"},
+                "ch": {"title": "客户**评价**"}
             },
 
             "items": [
                 {
-                    "value": "Anita Bath",
+                    "value": "jjponcepereira",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                        {"href": null}
                     ],
                     "icon": {
                         "img": "images/pictures/person-1.png",
@@ -133,28 +122,24 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "CEO at <b>SalesForce</b>",
-                            "text": "Working with Mark was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+                            "info": "Verified User at <b>CodeCanyon</b>",
+                            "text": "A great product. simple, easy to configure and effective. Congratulations"
                         },
-                        "es": {
-                            "info": "CEO en <b>SalesForce</b>",
-                            "text": "Trabajar con Mark fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
+                        "np": {
+                            "info": "<b>CodeCanyon</b> मा प्रमाणित प्रयोगकर्ता",
+                            "text": "एउटा उत्कृष्ट उत्पादन। सरल, कन्फिगर गर्न सजिलो र प्रभावकारी। बधाई छ।"
                         },
-                        "fr": {
-                            "info": "PDG de <b>SalesForce</b>",
-                            "text": "Travailler avec Mark a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
-                        },
-                        "ko": {
-                            "info": "세일즈포스  CEO",
-                            "text": "Mark와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
+                        "ch": {
+                            "info": "<b>CodeCanyon</b> 的已验证用户",
+                            "text": "很棒的产品。简单、易于配置且有效。恭喜"
                         }
                     }
                 },
 
                 {
-                    "value": "Lou Natic",
+                    "value": "DonCalogero",
                     "links": [
-                        {"href": "https://github.com"}
+                        {"href": null}
                     ],
                     "icon": {
                         "img": "images/pictures/person-3.png",
@@ -163,80 +148,68 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "Lead Developer at <b>GitHub</b>",
-                            "text": "Having Mark on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                            "info": "Verified User at <b>CodeCanyon</b>",
+                            "text": "Very nice look. It works perfectly. Super value for money."
                         },
-                        "es": {
-                            "info": "Desarrollador Principal en <b>GitHub </b>",
-                            "text": "Tener a Mark en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
+                        "np": {
+                            "info": "<b>CodeCanyon</b> मा प्रमाणित प्रयोगकर्ता",
+                            "text": "धेरै राम्रो देखिन्छ। यो एकदमै राम्रोसँग काम गर्छ। पैसाको लागि उत्कृष्ट मूल्य।"
                         },
-                        "fr": {
-                            "info": "Développeur Principal chez <b>GitHub </b>",
-                            "text": "Avoir Mark dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
-                        },
-                        "ko": {
-                            "info": "<b>GitHub</b> 수석 개발자",
-                            "text": "우리 팀에 Mark가 있다는 것은 귀중한 자산이었습니다. 그의 깊은 프로그래밍 통찰력과 멘토링은 우리의 프로젝트를 높이고 모든 도전에 자신감과 창의성으로 대응할 수 있게 해주었습니다."
+                        "ch": {
+                            "info": "<b>CodeCanyon</b> 的已验证用户",
+                            "text": "外观非常漂亮。使用起来非常完美。物超所值。"
                         }
                     }
                 },
 
                 {
-                    "value": "Paige Turner",
+                    "value": "goldracer",
                     "links": [
                         {"href": null}
                     ],
                     "icon": {
-                        "img": "images/pictures/person-2.png",
+                        "img": "images/pictures/person-3.png",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
                         "en": {
-                            "info": "Managing Director at <b>Dingga</b>",
-                            "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
+                            "info": "Verified User at <b>CodeCanyon</b>",
+                            "text": "Works as expected and hoped... ;-)"
                         },
-                        "es": {
-                            "info": "Directora General en <b>Dingga</b>",
-                            "text": "Colaborar con Mark fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
+                        "np": {
+                            "info": "<b>CodeCanyon</b> मा प्रमाणित प्रयोगकर्ता",
+                            "text": "अपेक्षा र आशा अनुसार काम गर्छ... ;-)"
                         },
-                        "fr": {
-                            "info": "Directrice Générale chez <b>Dingga</b>",
-                            "text": "Collaborer avec Mark a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
-                        },
-                        "ko": {
-                            "info": "딩가 전무이사",
-                            "text": "Mark와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
+                        "ch": {
+                            "info": "<b>CodeCanyon</b> 的已验证用户",
+                            "text": "正如预期和希望的那样工作... ;-)"
                         }
                     }
                 },
 
                 {
-                    "value": "Chris P. Bacon",
+                    "value": "awesomebundy",
                     "links": [
-                        {"href": "https://dribbble.com"}
+                        {"href": null}
                     ],
                     "icon": {
-                        "img": "images/pictures/person-4.png",
+                        "img": "images/pictures/person-3.png",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
                         "en": {
-                            "info": "Creative Director at <b>Dribbble</b>",
-                            "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
+                            "info": "Verified User at <b>CodeCanyon</b>",
+                            "text": "Made my site look even more awesome!!"
                         },
-                        "es": {
-                            "info": "Directora Creativa en <b>Dribbble</b>",
-                            "text": "La atención al detalle de Mark y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
+                        "np": {
+                            "info": "<b>CodeCanyon</b> मा प्रमाणित प्रयोगकर्ता",
+                            "text": "मेरो साइटलाई अझ उत्कृष्ट बनायो!!"
                         },
-                        "fr": {
-                            "info": "Directrice Créative chez <b>Dribbble</b>",
-                            "text": "L'attention aux détails de Mark et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
-                        },
-                        "ko": {
-                            "info": "<b>Dribbble</b> 크리에이티브 디렉터",
-                            "text": "Mark의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
+                        "ch": {
+                            "info": "<b>CodeCanyon</b> 的已验证用户",
+                            "text": "让我的网站看起来更加棒！！"
                         }
                     }
                 }
@@ -251,66 +224,11 @@
             },
             "locales": {
                 "en": {"title": "Personal **interests**"},
-                "es": { "title": "Intereses **personales**" },
-                "fr": { "title": "Intérêts **personnels** " },
-                "ko": { "title": "개인 **관심사**" }
+                "np": { "title": "व्यक्तिगत **रुचि**" },
+                "ch": { "title": "个人**兴趣**" }
             },
 
             "items": [
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-guitar",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Playing guitar",
-                            "info": "Exploring different genres and improving my skills."
-                        },
-                        "es": {
-                            "title": "Tocar la guitarra",
-                            "info": "Explorando diferentes géneros y mejorando mis habilidades."
-                        },
-                        "fr": {
-                            "title": "Jouer de la guitare",
-                            "info": "Explorer différents genres et améliorer mes compétences."
-                        },
-                        "ko": {
-                            "title": "기타 연주",
-                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-video",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "AI video editing",
-                            "info": "Learning to use AI tools to enhance my videos."
-                        },
-                        "es": {
-                            "title": "Edición de video con IA",
-                            "info": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
-                        },
-                        "fr": {
-                            "title": "Montage vidéo avec IA",
-                            "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
-                        },
-                        "ko": {
-                            "title": "AI 영상 편집",
-                            "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
-                        }
-                    }
-                },
-
                 {
                     "icon": {
                         "img": null,
@@ -320,20 +238,62 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Illustration",
-                            "info": "Practicing digital art and exploring new styles."
+                            "title": "Drawing",
+                            "info": "Passionate about drawing, exploring creativity through various styles and techniques."
                         },
-                        "es": {
-                            "title": "Ilustración",
-                            "info": "Practicando arte digital y explorando nuevos estilos."
+                        "np": {
+                            "title": "रेखाचित्र",
+                            "info": "चित्रकलामा रुचि राख्ने, विभिन्न शैली र प्रविधिहरू मार्फत रचनात्मकताको अन्वेषण गर्ने।"
                         },
-                        "fr": {
-                            "title": "Illustration",
-                            "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                        "ch": {
+                            "title": "绘画",
+                            "info": "热衷于绘画，通过各种风格和技巧探索创造力"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-table-tennis",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Playing Table Tennis",
+                            "info": "Enjoy the fast-paced action and strategic gameplay"
                         },
-                        "ko": {
-                            "title": "일러스트레이션",
-                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                        "np": {
+                            "title": "टेबल टेनिस खेल्ने",
+                            "info": "द्रुत गतिको कार्य र रणनीतिक गेमप्लेको आनन्द लिने"
+                        },
+                        "ch": {
+                            "title": "打乒乓球",
+                            "info": "享受快节奏的动作和战略游戏"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-search",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Research",
+                            "info": "Exploring new ideas and seeking to expand knowledge."
+                        },
+                        "np": {
+                            "title": "अनुसन्धान",
+                            "info": "नयाँ विचारहरूको अन्वेषण गर्ने र ज्ञान विस्तार गर्ने प्रयास गर्ने।"
+                        },
+                        "ch": {
+                            "title": "研究",
+                            "info": "探索新想法并寻求扩展知识。"
                         }
                     }
                 },
@@ -347,20 +307,16 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Investing",
-                            "info": "Learning the basics of stocks and personal finance."
+                            "title": "Coding and Programming",
+                            "info": "Eager to solve problems and create efficient solutions through code."
                         },
-                        "es": {
-                            "title": "Invertir",
-                            "info": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                        "np": {
+                            "title": "कोडिङ र प्रोग्रामिङ",
+                            "info": "कोड मार्फत समस्याहरू समाधान गर्न र कुशल समाधानहरू सिर्जना गर्न उत्सुक।"
                         },
-                        "fr": {
-                            "title": "Investir",
-                            "info": "Apprendre les bases des actions et des finances personnelles."
-                        },
-                        "ko": {
-                            "title": "투자",
-                            "info": "주식과 개인 재정의 기초 배우기."
+                        "ch": {
+                            "title": "编码和编程",
+                            "info": "渴望通过代码解决问题并创建有效的解决方案。"
                         }
                     }
                 },
@@ -375,19 +331,15 @@
                     "locales": {
                         "en": {
                             "title": "UX design",
-                            "info": "Studying user experience principles."
+                            "info": "Creating intuitive and user-centered experiences."
                         },
-                        "es": {
-                            "title": "Diseño UX",
-                            "info": "Estudiando los principios de la experiencia del usuario."
+                        "np": {
+                            "title": "UX डिजाइन",
+                            "info": "सहज र प्रयोगकर्ता-केन्द्रित अनुभवहरू सिर्जना गर्ने।"
                         },
-                        "fr": {
-                            "title": "Conception UX",
-                            "info": "Étudier les principes de l'expérience utilisateur."
-                        },
-                        "ko": {
-                            "title": "UX 디자인",
-                            "info": "사용자 경험 원칙을 공부하기."
+                        "ch": {
+                            "title": "用户体验设计",
+                            "info": "创造直观和以用户为中心的体验。"
                         }
                     }
                 },
@@ -395,26 +347,22 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-camera-retro",
+                        "fa": "fa-solid fa-network-wired",
                         "faColors": null
                     },
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Photo editing",
-                            "info": "Enhancing photos through creative editing techniques."
+                            "title": "Networking",
+                            "info": "Building, managing, and optimizing robust and secure network systems."
                         },
-                        "es": {
-                            "title": "Edición de fotos",
-                            "info": "Mejorando fotos a través de técnicas creativas de edición."
+                        "np": {
+                            "title": "नेटवर्किङ",
+                            "info": "बलियो र सुरक्षित नेटवर्क प्रणालीहरू निर्माण, व्यवस्थापन र अनुकूलन गर्ने।"
                         },
-                        "fr": {
-                            "title": "Retouche photo",
-                            "info": "Améliorer des photos avec des techniques de montage créatives."
-                        },
-                        "ko": {
-                            "title": "사진 편집",
-                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                        "ch": {
+                            "title": "联网",
+                            "info": "构建、管理和优化强大且安全的网络系统。"
                         }
                     }
                 }
