@@ -385,7 +385,7 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/flags/en.png",
+                        "img": "images/flags/np.png",
                         "fa": null,
                         "faColors": { "bg": null, "fill": null }
                     },
@@ -412,7 +412,7 @@
 
                 {
                     "icon": {
-                        "img": "images/flags/np.png",
+                        "img": "images/flags/en.png",
                         "fa": null,
                         "faColors": { "bg": null, "fill": null }
                     },
