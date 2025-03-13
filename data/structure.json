@@ -43,7 +43,8 @@
             "locales": {
                 "en": {"title": "Home"},
                 "np": {"title": "घर"},
-                "ch": {"title": "家"}
+                "ch": {"title": "家"},
+                "nw": {"title": "छे"}
             }
         },
 
@@ -53,7 +54,8 @@
             "locales": {
                 "en": {"title": "History"},
                 "np": {"title": "इतिहास"},
-                "ch": {"title": "历史"}
+                "ch": {"title": "历史"},
+                "nw": {"title": "बाखँ"}
             }
         },
 
@@ -63,7 +65,8 @@
             "locales": {
                 "en": {"title": "Showcase"},
                 "np": {"title": "शोकेस"},
-                "ch": {"title": "展示柜"}
+                "ch": {"title": "展示柜"},
+                "nw": {"title": "शोकेस"}
             }
         },
 
@@ -73,7 +76,8 @@
             "locales": {
                 "en": {"title": "More"},
                 "np": {"title": "थप"},
-                "ch": {"title": "更多的"}
+                "ch": {"title": "更多的"},
+                "nw": {"title": "योक्को"}
             }
         }
     ]

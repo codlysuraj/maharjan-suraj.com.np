@@ -16,6 +16,12 @@
             "title": "接触",
             "title_long_prefix": "不要犹豫",
             "title_long": "**联系**我"
+        },
+
+        "nw": {
+            "title": "स्वापु",
+            "title_long_prefix": "लिचिले मते",
+            "title_long": "**जितः स्वापू ति"
         }
     },
 
@@ -27,7 +33,8 @@
             "locales": {
                 "en": {"title": "Send me a **message**"},
                 "np": {"title": "मलाई **सन्देश** पठाउनुहोस्।"},
-                "ch": {"title": "给我发送**消息**"}
+                "ch": {"title": "给我发送**消息**"},
+                "nw": {"title": "जितः **हसना** छ्वयाहजि ।"}
             },
 
             "items": null
@@ -42,7 +49,8 @@
             "locales": {
                 "en": {"title": "Or if you **prefer**..."},
                 "np": {"title": "वा यदि तपाईं **रुचाउनुहुन्छ** भने..."},
-                "ch": {"title": "或者如果你**更喜欢**..."}
+                "ch": {"title": "或者如果你**更喜欢**..."},
+                "nw": {"title": "बाय् छन्त **यःसा**..."}
             },
 
             "items": [
@@ -59,7 +67,8 @@
                     "locales": {
                         "en": {"title": "Phone"},
                         "np": {"title": "फोन"},
-                        "ch": {"title": "电话"}
+                        "ch": {"title": "电话"},
+                        "nw": {"title": "फोन"}
                     }
                 },
 
@@ -76,7 +85,8 @@
                     "locales": {
                         "en": {"title": "E-mail"},
                         "np": {"title": "इ-मेल"},
-                        "ch": {"title": "电子邮件"}
+                        "ch": {"title": "电子邮件"},
+                        "nw": {"title": "ईमेल"}
                     }
                 }
             ]

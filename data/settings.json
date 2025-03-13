@@ -16,9 +16,10 @@
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"name": "<strong>Suraj **Maharjan**</strong>", "role": "Web Developer"},
-            "np": {"name": "<strong>सुरज **महर्जन**</strong>", "role": "वेब विकासकर्ता"},
-            "ch": {"name": "<strong>苏拉吉 **马哈尔詹**</strong>", "role": "网页开发人员"}
+            "en": {"name": "<strong>Suraj **Maharjan**</strong>", "role": "Web & Mobile App Developer"},
+            "np": {"name": "<strong>सुरज **महर्जन**</strong>", "role": "वेब र मोबाइल एप विकासकर्ता"},
+            "ch": {"name": "<strong>苏拉吉 **马哈尔詹**</strong>", "role": "网络和移动应用程序开发人员"},
+            "nw": {"name": "<strong>सुरज **महर्जन**</strong>", "role": "वेब व मोबाइल एप विकासकर्ता"}
         }
     },
 
@@ -29,7 +30,8 @@
         "locales": {
             "en": {"message": "Available for freelance!"},
             "np": {"message": "फ्रीलान्स को लागी उपलब्ध छ!"},
-            "ch": {"message": "可担任自由职业者！"}
+            "ch": {"message": "可担任自由职业者！"},
+            "nw": {"message": "स्वतन्त्र ज्याया निंतिं उपलब्ध जू !"}
         }
     },
 
@@ -58,6 +60,12 @@
         {
             "name": "नेपाली",
             "id": "np",
+            "flagUrl": "images/flags/np.png"
+        },
+
+        {
+            "name": "नेवा",
+            "id": "nw",
             "flagUrl": "images/flags/np.png"
         },
 
